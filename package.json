@@ -1,0 +1,27 @@
+{
+  "name": "ranjita-akkasali-portfolio",
+  "version": "2.0.0",
+  "description": "Professional Portfolio of Ranjita Akkasali - Engineering Student & Published Researcher",
+  "main": "app.py",
+  "scripts": {
+    "start": "python app.py",
+    "flask": "python app.py",
+    "node": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "portfolio",
+    "computer-vision",
+    "cnn",
+    "deep-learning",
+    "python",
+    "flask",
+    "web-development",
+    "cybersecurity",
+    "iit-bombay",
+    "infosys"
+  ],
+  "author": "Ranjita Akkasali",
+  "license": "MIT"
+}
+
